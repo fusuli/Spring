@@ -1,2 +1,4 @@
-/code/chapter2/.idea
-/code/chapter2/target
+.idea
+target
+*.class
+*.iml
